@@ -1,0 +1,23 @@
+{
+    "1234567890123456": {
+        "owner": "Ali Valiyev",
+        "balance": 12545678,
+        "password": "1234",
+        "phone": "+998901234567",
+        "blocked": false
+    },
+    "9876543210987654": {
+        "owner": "Vali Aliyev",
+        "balance": 500000,
+        "password": "4321",
+        "phone": null,
+        "blocked": true
+    },
+    "9876541110987654": {
+        "owner": "jorayev Umid",
+        "balance": 200000,
+        "password": "8091",
+        "phone": null,
+        "blocked": false
+    }
+}
